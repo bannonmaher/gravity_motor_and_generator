@@ -1,16 +1,22 @@
+SELF-POWERED MOTOR AND GENERATOR
 自供电电动机和发电机
 
+INVENTOR JONATHAN BANNON MAHER
 发明者 JONATHAN BANNON MAHER
 
 
+TECHNICAL FIELD
 技术领域
 
+[0001] Embodiments of the invention relate to the fields of motors, generators, physics, engineering, and programming.
 [0001] 本发明的实施例涉及电动机，发电机，物理学，工程学和编程领域。
-
-ABSTRACT
 
+ABSTRACT
+抽象
+
+[0002] Systems, methods, apparatuses, and in some embodiments computer programs encoded on a computer storage medium, provide for clean continuous portable self-powered energy generation and propulsion, consistent with the laws of physics, by in some embodiments, including one complete embodiment, transferring force generated through hydraulics and or pneumatics and or mechanical leverage and or motorized mechanical leverage, to cause the flow of a medium, to spin a turbine, to power an electricity generator, and or rotate an axle to provide the propulsion of a traditional motor, where energy may be captured in excess of that consumed as a result of the differential between input force required and output force provided by certain force providing device configurations, as well as a result of the differential between the linear force used to elevate the medium and the compounding force provided by gravity during medium drop.  The invention permanently solves global warming, provides reduced cost of living to alleviate poverty, provides unlimited clean energy for evaporated water purification and atmospheric carbon dioxide splitting, and eliminates the need for every other method of energy production, including nuclear technology – thus reducing nuclear weapons technology proliferation.
 [0002] 在一些实施例中，包括一个完整实施例的系统，方法，装置以及在一些实施例中编码在计算机存储介质上的计算机程序提供了与物理定律一致的清洁连续便携式自供电能量生成和推进，通过液压和/或气动和/或机械杠杆和/或机动机械杠杆产生的力，以引起介质的流动，旋转涡轮，为发电机供电，和或旋转轴以提供传统电机的推进，其中由于所需的输入力和由某些力提供装置配置提供的输出力之间的差异，以及用于提升介质的线性力与中等下降时由重力提供的复合力。本发明永久地解决了全球变暖问题，降低了生活成本以减轻贫困，为蒸发的水净化和大气二氧化碳分解提供无限的清洁能源，并且消除了对包括核技术在内的所有其他能源生产方法的需求 - 从而减少了核武器技术扩散。
-
+
 REFERENCE TO RELATED DOCUMENTS
 
 [0003] This application is provided the benefit and priority date of United States Patent and Trademark Office provisional patent applications 62/522,646, filed June 20th 2017 by inventor Jonathan Bannon Maher, 62/596,825, filed December 9th 2017 by inventor Jonathan Bannon Maher, and  62/645,066, filed March 19th, 2018 by inventor Jonathan Bannon Maher, which are incorporated herein in their entirety.
